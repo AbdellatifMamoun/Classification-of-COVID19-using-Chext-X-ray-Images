@@ -16,11 +16,7 @@ This project will be processed according to the following steps:
 
 - Data Preparation (visualization preprocessing and Augmentation)
 
-- Build a Convolutional Neural Network (CNN)
-
-- Compile and Train the Model
-
-- Performance Evaluation
+- Model Construction (Building a CNN, compiling, training and performance evaluation)
 
 - Prediction on New Data
 
